@@ -10,7 +10,6 @@ How can supermarkets turn transaction data into useful business decisions?
 
 This project analyzes **500 product records across 153 shopping baskets** to explore best-selling products, basket sizes and product associations. The goal is to identify **testable opportunities** for cross-selling, product placement and promotions—not to promise guaranteed sales growth.
 
-The complete analysis, visualizations and explanations are available in [Market_Basket_Analysis.ipynb](Market_Basket_Analysis.ipynb).
 
 ## Key Insights & Business Value
 
